@@ -1,0 +1,4 @@
+interface:
+  display_name: "Navigator"
+  short_description: "区分关系目标与推进节奏，兼顾自我理解、现实行动和安全止损。"
+  default_prompt: "使用 $navigator 区分短期或长期目标与推进速度，再分析内外证据，给出合适的下一步和止损线。"
