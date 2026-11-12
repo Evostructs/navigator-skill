@@ -1,5 +1,7 @@
 # Navigator
 
+**本项目由 Evostructs 在 OpenAI Codex 的帮助下开发。**
+
 ![Navigator：在自我理解、现实信号与关系选择之间校准方向](assets/navigator-cover.jpg)
 
 ## 序：在真实相遇中看见彼此，也成为自己
